@@ -1,0 +1,9 @@
+#ip{color: whitesmoke;}
+
+body{background-color: rgb(0, 0, 0);}
+
+#border{border: rgb(0, 0, 0) double; width: 500px; height: 200px;
+        position:  relative; top: 20px; left: 11rem; background-color: rgb(66, 66, 66);
+        border-radius: 16px;}
+
+p{color: rgb(0, 0, 0);}
